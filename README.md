@@ -1,7 +1,3 @@
-[![Bhumi's github stats](https://github-readme-stats.vercel.app/api?username=bhumi6633)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <h1 align="left">👋  Hi There!</h1>
 
 ###
@@ -89,5 +85,5 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
 </div>
 
-
+[![Bhumi's github stats](https://github-readme-stats.vercel.app/api?username=bhumi6633)](https://github.com/anuraghazra/github-readme-stats)
 
