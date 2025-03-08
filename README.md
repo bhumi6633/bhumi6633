@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since age of 13<br>📚 I'm currently learning software development, financial models and analyzing the stock markets!<br>🎯 Goals: To  graduate as a well-rounded engineer with a strong academic foundation, practical skills, and a vision for leveraging technology to enhance accessibility<br>🎲 Fun fact: When I'm not working, you'll catch me watching Suits ⚖️, learning to think like Harvey Specter and how to tackle challenges with his style 💼<br><br>’m always open to working on exciting projects and collaborating with like-minded people! If you want to connect, share ideas, or collaborate on a project, feel free to reach out on:</p>
+<p align="left">✨ Creating bugs since age of 13<br>📚 I'm currently learning software development, financial models and analyzing the stock markets!<br>🎯 Goals: To  graduate as a well-rounded engineer with a strong academic foundation, practical skills, and a vision for leveraging technology to enhance accessibility<br>🎲 Fun fact: When I'm not working, you'll catch me watching Suits ⚖️, learning to think like Harvey Specter and how to tackle challenges with his style 💼<br><br>I’m always open to working on exciting projects and collaborating with like-minded people! If you want to connect, share ideas, or collaborate on a project, feel free to reach out on:</p>
 
 ###
 
