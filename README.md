@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Bhumi Shah</p>
+<p align="left">My name is  Bhumi Shah and I am a tech enthusiast!</p>
 
 ###
 
