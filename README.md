@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Bhumi Shah and I am a tech enthusiast!</p>
+<p align="left">I am Bhumi Shah, a Computer Engineering stduent at the University of Waterloo!</p>
 
 ###
 
